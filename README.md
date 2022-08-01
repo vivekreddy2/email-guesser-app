@@ -1,6 +1,6 @@
 ## Project Description :
 
-This is react single page application with a form that accepts fields `fullName` and `domain`. and determines the email address of the given user
+This is react single page application with a form that accepts fields `fullName` and `domain` and determines the email address of the given user
 The UI is built using aws ui components. This application uses jest and react testing library for unit tests.
 
 ## Usage :
@@ -10,8 +10,7 @@ The UI is built using aws ui components. This application uses jest and react te
 * run `npm test` to run unit tests
 
 ## Preview :
-
-
+![alt text](https://github.com/vivekreddy2/email-guesser-app/blob/master/public/preview.png?raw=true)
 
 
 ---
